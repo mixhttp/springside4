@@ -24,7 +24,7 @@ import com.google.common.collect.Maps;
 
 /**
  * 更高效的AccountService实现，基于MyBatis + Memcached的方案，以JSON格式存储Memcached中的内容。
- * 
+ *
  * @author calvin
  */
 @Component
